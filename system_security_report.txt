@@ -1,0 +1,21 @@
+=================================================================
+         KALI LINUX SYSTEM LOG ANALYZER REPORT         
+=================================================================
+Analysis Time : 2026-09-23 17:32:14
+Log Source    : Live systemd-journald (journalctl)
+Total Lines   : 0
+-----------------------------------------------------------------
+
+[!] BRUTE-FORCE DETECTIONS (THRESHOLD >= 3 FAILED ATTEMPTS):
+  [+] No brute-force thresholds breached.
+
+[!] INVALID USER LOGIN ATTEMPTS:
+  [+] No unauthorized username attempts found.
+
+[!] PRIVILEGE ESCALATION MONITORING (SUDO ACTIVITIES):
+  [+] No privilege escalation events detected.
+
+[+] SUCCESSFUL LOGIN ACTIVITIES:
+  [-] No successful login sessions recorded in this dataset.
+
+=================================================================
